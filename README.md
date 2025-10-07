@@ -1,4 +1,5 @@
-#Automated Invoicing ROI Calculator
+# Automated Invoicing ROI Calculator
+
 Project Overview
 
 The Automated Invoicing ROI Calculator is a lightweight web application that allows businesses to simulate cost savings, payback period, and ROI when switching from manual invoice processing to automated invoicing.
