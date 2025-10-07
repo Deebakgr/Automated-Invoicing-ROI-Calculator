@@ -96,4 +96,4 @@ pip install streamlit fpdf
 
 Run the app:
 
-streamlit run roi_calculator.py
+streamlit run app.py
